@@ -1,3 +1,6 @@
+*.csv
+wandb/
+
 **/data/
 **/models/
 **/logs/
